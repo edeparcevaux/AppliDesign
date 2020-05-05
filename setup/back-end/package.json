@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Takima <formation@takima.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "swagger-jsdoc": "^3.2.9",
+    "swagger-ui-express": "^4.0.4"
+  }
+}
